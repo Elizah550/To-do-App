@@ -29,7 +29,6 @@ Include a link to a live demo or screenshots to showcase your app.
 - HTML
 - CSS
 - JavaScript
-- [Any additional libraries or frameworks used...]
 
 ## Getting Started
 
